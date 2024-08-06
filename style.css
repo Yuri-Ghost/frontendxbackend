@@ -1,2 +1,6 @@
-.jesus{
-    width: 500%
+.cabeçalho {
+    display: flex;
+    background-color: black;
+    justify-content: space-around;
+    padding: 24px 0;
+}
