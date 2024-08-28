@@ -22,7 +22,7 @@ body{
 
 .fronteback {
     padding: 24px 0;
-    justify-content: space-around;
+    margin: 2;
 }
 
 .rodapé{
