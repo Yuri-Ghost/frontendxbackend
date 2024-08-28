@@ -26,7 +26,22 @@ body {
     left: -20px;
 }
 
-.diferenças{
-    background-color:
-}
+@media screen and (max-width: 768px) {
+    body {
+        padding: 0 10px;
+    }
 
+    .cabeçalho {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fronteback h2, .fronteback p {
+        font-size: 1.1em;
+    }
+
+    .rodapé {
+        width: calc(100% + 20px);
+        left: -10px;
+    }
+}
