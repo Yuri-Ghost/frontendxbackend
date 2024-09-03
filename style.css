@@ -29,6 +29,12 @@ body {
     left: -20px;
 }
 
+.retorno {
+    color: #09c713;
+    font-family: "Kanit";
+    font-weight: 600;
+}
+
 @media screen and (max-width: 768px) {
     body {
         padding: 0 10px;
