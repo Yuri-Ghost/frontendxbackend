@@ -33,6 +33,7 @@ body {
     color: #09c713;
     font-family: "Kanit";
     font-weight: 600;
+    text-align: center;
 }
 
 @media screen and (max-width: 768px) {
