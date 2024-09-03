@@ -33,7 +33,8 @@ body {
     color: #09c713;
     font-family: "Kanit";
     font-weight: 600;
-    text-align: center;
+   justify-content: space-around;
+   padding: 6px 0;
 }
 
 @media screen and (max-width: 768px) {
