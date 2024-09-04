@@ -16,6 +16,7 @@ body {
     background-color: black;
     justify-content: space-around;
     padding: 24px 0;
+    font-family: "Jacquard 12";
 }
 
 .rodapé {
@@ -53,6 +54,7 @@ body {
     .cabeçalho {
         flex-direction: column;
         align-items: center;
+        font-family: "Jacquard 12";
     }
 
     .fronteback h2, .fronteback p {
