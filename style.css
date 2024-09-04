@@ -54,9 +54,13 @@ body {
     }
 
     .cabeçalho {
-        flex-direction: column;
-        align-items: center;
+        display: flex;
+        background-color: #1a1a1a; 
+        justify-content: space-around;
+        padding: 24px 0;
         font-family: "Jacquard 12";
+        width: 100%;
+        box-sizing: border-box;
     }
 
     .fronteback h2, .fronteback p {
