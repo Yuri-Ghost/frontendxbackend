@@ -33,13 +33,14 @@ body {
     text-align: center;
 }
 
+.container {
+    text-align: center;
+}
+
 .retorno {
     color: #09c713;
     font-family: "Kanit";
     font-weight: 600;
-   justify-content: space-around;
-   padding: 6px 0;
-   text-align: center;
 }
 
 @media screen and (max-width: 768px) {
