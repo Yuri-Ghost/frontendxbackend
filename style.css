@@ -19,7 +19,9 @@ body {
     font-family: "Jacquard 12";
     width: 100%;
     box-sizing: border-box;
-.rodapé {
+}
+
+    .rodapé {
     background-color: #1a1a1a;
     font-family: "Jacquard 12";
     text-align: center;
