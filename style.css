@@ -13,12 +13,12 @@ body {
 
 .cabeçalho {
     display: flex;
-    background-color: #1a1a1a;
+    background-color: #1a1a1a; 
     justify-content: space-around;
     padding: 24px 0;
     font-family: "Jacquard 12";
-}
-
+    width: 100%;
+    box-sizing: border-box;
 .rodapé {
     background-color: #1a1a1a;
     font-family: "Jacquard 12";
