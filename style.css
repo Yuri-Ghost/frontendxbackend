@@ -13,7 +13,7 @@ body {
 
 .cabeçalho {
     display: flex;
-    background-color: black;
+    background-color: #1a1a1a;
     justify-content: space-around;
     padding: 24px 0;
     font-family: "Jacquard 12";
