@@ -39,6 +39,7 @@ body {
     font-weight: 600;
    justify-content: space-around;
    padding: 6px 0;
+   text-align: center;
 }
 
 @media screen and (max-width: 768px) {
