@@ -37,6 +37,8 @@ body {
 }
 
 .imagem-container img {
+    max-width: 100%;
+    height: auto;
     display: block;
     margin: 0 auto;
 }
@@ -70,6 +72,11 @@ body {
 
     .fronteback h2, .fronteback p {
         font-size: 1.1em;
+    }
+
+    .imagem-container img {
+        max-width: 100%;
+        height: auto;
     }
 
     .rodapé {
