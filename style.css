@@ -38,6 +38,7 @@ body {
 
 .imagem-container img {
     display: block;
+    margin: 0 auto;
 }
 
 .container {
