@@ -32,8 +32,12 @@ body {
     left: -20px;
 }
 
-.imagem {
+.imagem-container {
     text-align: center;
+}
+
+.imagem-container img {
+    display: block;
 }
 
 .container {
